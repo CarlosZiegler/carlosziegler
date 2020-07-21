@@ -16,8 +16,6 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosziegler&show_icons=true" alt="maykbrito" /> </p>
-
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
@@ -26,6 +24,5 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosziegler&show_icons=true" alt="carlosziegler" /> </p>
 ---
