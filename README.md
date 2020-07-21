@@ -25,4 +25,4 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosziegler&show_icons=true" alt="carlosziegler" /> </p>
----
+
