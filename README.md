@@ -11,6 +11,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
+[![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/carlosziegler/)](https://github.com/carlosziegler/)
