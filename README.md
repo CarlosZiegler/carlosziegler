@@ -2,10 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ziegler/)](https://www.linkedin.com/in/carlos-ziegler/)
 
-# :man_technologist: Carlos Ricardo Ziegler
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ziegler/)](https://www.linkedin.com/in/carlos-ziegler/)
-
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a0bbf493-713c-4b9e-9145-c7984b037478" align="center" style="width: 100%" />
 </div>
